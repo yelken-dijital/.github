@@ -15,4 +15,4 @@ Bu organizasyon altında geliştirilen tüm scriptler tamamen açık kaynaklıd�
 Katkılarınızı memnuniyetle karşılarız!
 
 ## 🌐 Web Sitesi
-https://yelkendijital.com
+https://yelkendijital.com.tr
